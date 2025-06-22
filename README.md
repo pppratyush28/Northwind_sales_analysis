@@ -1,4 +1,4 @@
-## Northwind Sales Analysis — Data Analyst Portfolio Project
+## Northwind Sales Analysis
 
 This project simulates the work of a junior data analyst by analyzing transactional and customer data from the **Northwind Traders** dataset using **MySQL** and **Python**. It answers real business questions related to customer value, product performance, and revenue trends.
 
