@@ -26,7 +26,7 @@ This project simulates the work of a junior data analyst by analyzing transactio
 4. Over **75% of customers** fell into the **Low Value segment** based on total spend.
 5. **All of the customers placed repeat orders**, indicating excellent retention.
 6. The **average order value** was mostly **below \$200**, with a long right-tail of premium purchases.
-
+![Average Order Value](visuals/aov_distribution.png)
 ---
 
 ## Recommendations
