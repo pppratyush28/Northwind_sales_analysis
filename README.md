@@ -60,7 +60,7 @@ northwind-sales-analysis/
 ├── visuals/
 ├── Northwind_Analysis.ipynb
 └── README.md
-
+```
 
 ---
 
