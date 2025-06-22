@@ -22,7 +22,7 @@ This project simulates the work of a junior data analyst by analyzing transactio
 2. The **top 5 customers contributed over 65%** of total revenue — showing heavy dependence on a few clients.
 ![Top Customers](visuals/top_customers_bar.png)
 3. Top products included **Coffee, Beer, and Marmalade**, suggesting a preference for daily-use consumables.
-![Top Products](visuals/top_products.png)
+![Top Products](visuals/product_revenue_pie.png)
 4. Over **75% of customers** fell into the **Low Value segment** based on total spend.
 5. **All of the customers placed repeat orders**, indicating excellent retention.
 6. The **average order value** was mostly **below \$200**, with a long right-tail of premium purchases.
@@ -53,12 +53,14 @@ This project simulates the work of a junior data analyst by analyzing transactio
 
 ## Project Structure
 
+```text
 northwind-sales-analysis/
 ├── SQL Queries/
 ├── CSV Exports/
 ├── visuals/
 ├── Northwind_Analysis.ipynb
 └── README.md
+
 
 ---
 
